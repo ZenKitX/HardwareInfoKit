@@ -245,7 +245,7 @@ git init
 git tag v1.0.0
 
 # 4. Push to remote repository
-git remote add origin https://github.com/yourusername/hardware_info_kit.git
+git remote add origin https://github.com/h1s97x/HardwareInfoKit.git
 git push -u origin main
 git push origin v1.0.0
 ```

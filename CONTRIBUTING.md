@@ -169,9 +169,9 @@ docs: 更新新方法的 API 参考
 
 ## 获取帮助
 
-- 查看现有 [issues](https://github.com/yourusername/hardware_info_kit/issues)
+- 查看现有 [issues](https://github.com/h1s97x/HardwareInfoKit/issues)
 - 阅读 [文档](https://pub.dev/documentation/hardware_info_kit/latest/)
-- 在 [discussions](https://github.com/yourusername/hardware_info_kit/discussions) 提问
+- 在 [discussions](https://github.com/h1s97x/HardwareInfoKit/discussions) 提问
 
 ## 行为准则
 

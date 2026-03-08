@@ -403,9 +403,9 @@ docs: update API reference for new methods
 
 ## Getting Help
 
-- Check existing [issues](https://github.com/yourusername/hardware_info_kit/issues)
+- Check existing [issues](https://github.com/h1s97x/HardwareInfoKit/issues)
 - Read the [documentation](https://pub.dev/documentation/hardware_info_kit/latest/)
-- Ask questions in [discussions](https://github.com/yourusername/hardware_info_kit/discussions)
+- Ask questions in [discussions](https://github.com/h1s97x/HardwareInfoKit/discussions)
 
 ## Code of Conduct
 

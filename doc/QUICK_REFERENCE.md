@@ -360,7 +360,7 @@ if (Platform.isWindows) {
 - [架构设计](ARCHITECTURE.md)
 - [代码风格指南](CODE_STYLE.md)
 - [贡献指南](../CONTRIBUTING.md)
-- [GitHub 仓库](https://github.com/yourusername/hardware_info_kit)
+- [GitHub 仓库](https://github.com/h1s97x/HardwareInfoKit)
 
 ---
 

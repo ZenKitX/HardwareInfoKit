@@ -626,6 +626,6 @@ final memoryInfo = systemInfo.memory;
 ## More Resources
 
 - [API Documentation](https://pub.dev/documentation/hardware_info_kit/latest/)
-- [GitHub Repository](https://github.com/yourusername/hardware_info_kit)
-- [Issue Tracker](https://github.com/yourusername/hardware_info_kit/issues)
-- [Example App](https://github.com/yourusername/hardware_info_kit/tree/main/example)
+- [GitHub Repository](https://github.com/h1s97x/HardwareInfoKit)
+- [Issue Tracker](https://github.com/h1s97x/HardwareInfoKit/issues)
+- [Example App](https://github.com/h1s97x/HardwareInfoKit/tree/main/example)

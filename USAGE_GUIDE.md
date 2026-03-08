@@ -389,6 +389,6 @@ final memoryInfo = systemInfo.memory;
 ## 更多资源
 
 - [API 文档](doc/API.md) - 完整 API 参考
-- [GitHub 仓库](https://github.com/yourusername/hardware_info_kit)
-- [问题追踪](https://github.com/yourusername/hardware_info_kit/issues)
-- [示例应用](https://github.com/yourusername/hardware_info_kit/tree/main/example)
+- [GitHub 仓库](https://github.com/h1s97x/HardwareInfoKit)
+- [问题追踪](https://github.com/h1s97x/HardwareInfoKit/issues)
+- [示例应用](https://github.com/h1s97x/HardwareInfoKit/tree/main/example)

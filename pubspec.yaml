@@ -1,7 +1,7 @@
 name: hardware_info_kit
 description: A Flutter plugin for retrieving hardware information across multiple platforms. Get CPU, memory, GPU, disk, battery, and OS information easily.
 version: 1.0.0
-homepage: https://github.com/yourusername/hardware_info_kit
+homepage: https://github.com/h1s97x/HardwareInfoKit
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
