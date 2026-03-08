@@ -22,8 +22,8 @@ using flutter::MethodResultFunctions;
 
 }  // namespace
 
-TEST(HardwareInfoPlusPlugin, GetPlatformVersion) {
-  HardwareInfoPlusPlugin plugin;
+TEST(HardwareInfoKitPlugin, GetPlatformVersion) {
+  HardwareInfoKitPlugin plugin;
   // Save the reply value from the success callback.
   std::string result_string;
   plugin.HandleMethodCall(

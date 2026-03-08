@@ -12,13 +12,13 @@ class HardwareInfoKitPlugin : public flutter::Plugin {
  public:
   static void RegisterWithRegistrar(flutter::PluginRegistrarWindows *registrar);
 
-  HardwareInfoPlusPlugin();
+  HardwareInfoKitPlugin();
 
-  virtual ~HardwareInfoPlusPlugin();
+  virtual ~HardwareInfoKitPlugin();
 
   // Disallow copy and assign.
-  HardwareInfoPlusPlugin(const HardwareInfoPlusPlugin&) = delete;
-  HardwareInfoPlusPlugin& operator=(const HardwareInfoPlusPlugin&) = delete;
+  HardwareInfoKitPlugin(const HardwareInfoKitPlugin&) = delete;
+  HardwareInfoKitPlugin& operator=(const HardwareInfoKitPlugin&) = delete;
 
   // Called when a method is called on this plugin's channel from Dart.
   void HandleMethodCall(

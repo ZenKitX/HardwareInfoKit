@@ -5,7 +5,7 @@ import 'package:hardware_info_kit/hardware_info_kit_method_channel.dart';
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
 
-  MethodChannelHardwareInfoPlus platform = MethodChannelHardwareInfoPlus();
+  MethodChannelHardwareInfoKit platform = MethodChannelHardwareInfoKit();
   const MethodChannel channel = MethodChannel('hardware_info_kit');
 
   setUp(() {

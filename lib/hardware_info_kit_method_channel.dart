@@ -1,10 +1,10 @@
-﻿import 'package:flutter/foundation.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 
 import 'hardware_info_kit_platform_interface.dart';
 
-/// An implementation of [HardwareInfoPlusPlatform] that uses method channels.
-class MethodChannelHardwareInfoPlus extends HardwareInfoPlusPlatform {
+/// An implementation of [HardwareInfoKitPlatform] that uses method channels.
+class MethodChannelHardwareInfoKit extends HardwareInfoKitPlatform {
   /// The method channel used to interact with the native platform.
   @visibleForTesting
   final methodChannel = const MethodChannel('hardware_info_kit');
